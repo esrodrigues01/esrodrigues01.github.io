@@ -1,7 +1,7 @@
 <?php
 // Conexão com o banco de dados
 $servername = '177.64.226.66'; // Nome do servidor MySQL
-$username = 'externo'; // Seu nome de usuário MySQL
+$username = 'Externo'; // Seu nome de usuário MySQL
 $password = 'A0g8a4g1@'; // Sua senha MySQL
 $dbname = 'portifolio_contato'; // Nome do banco de dados
 
