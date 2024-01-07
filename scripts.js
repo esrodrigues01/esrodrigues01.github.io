@@ -1,9 +1,9 @@
 const projects = [
     {
         title: 'Projeto 1',
-        description: 'Descrição do Projeto 1.',
+        description: 'Brazilian E-Commerce Public Dataset by Olist Welcome! This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.',
         status: 'Concluído',
-        link: 'https://www.example.com/projeto1'
+        link: 'https://github.com/esrodrigues01/Data-Scientist/tree/main/Projeto%201%20-%20Data%20Science%20do%20zero%20-%20Olist'
     },
     {
         title: 'Projeto 2',
