@@ -11,6 +11,55 @@ const projects = [
         status: 'Concluído',
         link: 'https://github.com/esrodrigues01/Data-Scientist/tree/main/Projeto%202%20-%20Elei%C3%A7%C3%B5es%20brasileiras'
     },
+     {
+        title: 'Projeto 3',
+        description: 'Análise Descritiva para geração de insight',
+        status: 'Concluído',
+        link: 'Código-fonte de uma análise de dados com dados gerados por um arquivo em .CSV, usando python" "Este conjunto de dados inclui preços e variação percentual de preço para lã grossa, copra, algodão, lã fina, dura longa, madeira serrada dura, couro, madeira compensada, borracha, toras macias, madeira serrada macia e celulose de madeira.'
+    },
+     {
+        title: 'Projeto 4',
+        description: 'Análise de dados com dados gerados por um banco de dados, usando python e SQL" "Dados de Pesquisas eleitorais compiladas pelo poder360.',
+        status: 'Concluído',
+        link: 'https://github.com/esrodrigues01/Data-Scientist/tree/main/Projeto%202%20-%20Elei%C3%A7%C3%B5es%20brasileiras'
+    },
+     {
+        title: 'Projeto 5',
+        description: 'Análise de dados com dados gerados por um banco de dados, usando python e SQL" "Dados de Pesquisas eleitorais compiladas pelo poder360.',
+        status: 'Concluído',
+        link: 'https://github.com/esrodrigues01/Data-Scientist/tree/main/Projeto%202%20-%20Elei%C3%A7%C3%B5es%20brasileiras'
+    },
+     {
+        title: 'Projeto 6',
+        description: 'Análise de dados com dados gerados por um banco de dados, usando python e SQL" "Dados de Pesquisas eleitorais compiladas pelo poder360.',
+        status: 'Concluído',
+        link: 'https://github.com/esrodrigues01/Data-Scientist/tree/main/Projeto%202%20-%20Elei%C3%A7%C3%B5es%20brasileiras'
+    },
+     {
+        title: 'Projeto 7',
+        description: 'Análise de dados com dados gerados por um banco de dados, usando python e SQL" "Dados de Pesquisas eleitorais compiladas pelo poder360.',
+        status: 'Concluído',
+        link: 'https://github.com/esrodrigues01/Data-Scientist/tree/main/Projeto%202%20-%20Elei%C3%A7%C3%B5es%20brasileiras'
+    },
+     {
+        title: 'Projeto 8',
+        description: '',
+        status: 'Concluído',
+        link: ''
+    },
+     {
+        title: 'Projeto 9',
+        description: '',
+        status: 'Concluído',
+        link: ''
+    },
+     {
+        title: 'Projeto 10',
+        description: '',
+        status: 'Concluído',
+        link: ''
+    },
+    
     // Adicione outros projetos conforme necessário
 ];
 
