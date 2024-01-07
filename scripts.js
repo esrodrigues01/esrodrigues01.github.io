@@ -7,9 +7,9 @@ const projects = [
     },
     {
         title: 'Projeto 2',
-        description: 'Descrição do Projeto 2.',
+        description: 'Análise de dados com dados gerados por um banco de dados, usando python e SQL" "Dados de Pesquisas eleitorais compiladas pelo poder360.',
         status: 'Concluído',
-        link: 'https://www.example.com/projeto1'
+        link: 'https://github.com/esrodrigues01/Data-Scientist/tree/main/Projeto%202%20-%20Elei%C3%A7%C3%B5es%20brasileiras'
     },
     // Adicione outros projetos conforme necessário
 ];
