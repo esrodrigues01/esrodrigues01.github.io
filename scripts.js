@@ -37,28 +37,11 @@ const projects = [
     },
      {
         title: 'Projeto 7',
-        description: '',
+        description: 'A previsão de preços de ações é uma área de grande interesse para investidores e pesquisadores financeiros. A utilização de técnicas de aprendizado de máquina (Machine Learning) em Python tem se mostrado uma opção eficiente para a previsão de preços de ações. O primeiro passo na construção de um modelo de previsão de preços de ações é a coleta de dados históricos. O próximo passo é a seleção do algoritmo de Machine Learning a ser utilizado. Com o algoritmo escolhido, é realizado o treinamento do modelo, utilizando dados históricos para estimar os parâmetros do modelo.',
         status: 'Concluído',
         link: ''
     },
-     {
-        title: 'Projeto 8',
-        description: '',
-        status: 'Concluído',
-        link: ''
-    },
-     {
-        title: 'Projeto 9',
-        description: '',
-        status: 'Concluído',
-        link: ''
-    },
-     {
-        title: 'Projeto 10',
-        description: '',
-        status: 'Concluído',
-        link: ''
-    },
+
     
     // Adicione outros projetos conforme necessário
 ];
